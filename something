@@ -1,2 +1,1 @@
-echo "something";
-echo "No server is currently available to service your request";
+echo "something"
